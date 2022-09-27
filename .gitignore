@@ -2,3 +2,4 @@
 .vscode
 .scala-build
 .bloop
+.bsp
